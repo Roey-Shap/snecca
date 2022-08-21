@@ -1,0 +1,2 @@
+textbox_conversation = ["This was no longer just [c_snake]Snake[/c].\n\nAnd now we just wonder what else we can affect...\n[wave][c_character][slant]And bring that change into the world, even if it means biting our own tails!!![/c][/slant][/wave]"];
+text_wrap_x = 13 * CELL_W;

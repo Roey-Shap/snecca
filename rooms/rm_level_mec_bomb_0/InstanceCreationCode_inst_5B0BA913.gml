@@ -1,0 +1,1 @@
+fire_direction = 0;

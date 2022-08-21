@@ -1,0 +1,2 @@
+textbox_conversation = ["There would be other [c_character]travelers[/c] to help, each with [c_character]destinations[/c] of their own. It would be important to give them time and [wheel]wait[/wheel] for them to progress alone when they could by pressing [c_snake][pulse][wheel]SPACE[/pulse][/wheel][/c]."];
+text_wrap_x = 7 * CELL_W;

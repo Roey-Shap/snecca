@@ -1,0 +1,2 @@
+textbox_conversation = ["New types of [wheel]good apples[/wheel] arose, and the snake learned to [slant]maintain its direction[/slant] when directing the travelers, always."];
+text_wrap_x = 5.5 * CELL_W;

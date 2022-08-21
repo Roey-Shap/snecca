@@ -1,0 +1,2 @@
+textbox_conversation = ["Coming to terms with [shake]breaking[/shake] the rules as it had done before... that's what allowed the snake to [wheel]build[/wheel] them the bridges they needed."];
+text_wrap_x = 6.5 * CELL_W;

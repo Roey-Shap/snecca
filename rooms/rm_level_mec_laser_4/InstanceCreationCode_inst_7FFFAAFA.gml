@@ -1,0 +1,2 @@
+textbox_conversation = ["Through shared struggle, the [c_character]travelers[/c] and the [c_snake]snake[/c] made their way across the world... Could this be [wheel]comradery[/wheel]?"];
+text_wrap_x = 12 * CELL_W;

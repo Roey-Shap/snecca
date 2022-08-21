@@ -1,0 +1,1 @@
+target = o_snake;
